@@ -22,3 +22,5 @@ else {
     console.log(BMI + ' - obesity');
     console.log(firstName + ' ты готовишься на конкурс толстяков?!');
 }
+
+// допустим я внес изменения
